@@ -1,0 +1,48 @@
+.container-width {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 32px;
+}
+@media (max-width: 575px) {
+  .container-width {
+    padding: 15px;
+  }
+}
+.nav-header {
+  display: flex;
+  align-items: center;
+}
+.wave-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+.wave-para {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+}
+.head-container {
+  display: flex;
+  padding-left: 0px;
+  list-style-type: none;
+  padding-bottom: 25px;
+}
+.head {
+  font-size: 50px;
+  font-weight: 900;
+  font-family: 'Roboto';
+  margin: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.link-link {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-left: 16px;
+}

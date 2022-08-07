@@ -1,0 +1,22 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 200px;
+}
+
+.about {
+  width: 150px;
+}
+.about-text {
+  font-family: 'Roboto';
+  font-size: 80px;
+  color: #551e53;
+  padding-bottom: 18px;
+}
+.about-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 200px;
+}

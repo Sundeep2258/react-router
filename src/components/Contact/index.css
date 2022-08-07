@@ -1,0 +1,20 @@
+.about-container {
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  margin: 20px;
+  width: 150px;
+}
+.about-text {
+  font-family: 'Roboto';
+  font-size: 80px;
+  color: #551e53;
+}
+.about-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
